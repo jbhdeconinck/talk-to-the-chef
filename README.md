@@ -2,6 +2,8 @@
 
 ##User story
 
-```As a restaurant owner
+```
+As a restaurant owner
 So that I can receive reviews
-I want to be able to create an account```
+I want to be able to create an account
+```
